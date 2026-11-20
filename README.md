@@ -17,6 +17,20 @@ I am passionate about frontend development, modern web technologies, and solving
 - Exploring modern web development and mobile applications.
 - Interested in learning, collaboration, and open-source development.
 - Career Goal: Become a professional frontend developer.
+- 
+## Achievements & Awards
+
+### 3rd Place — Essay Writing Competition (2026)
+
+**Trust University, Barishal**
+
+Secured third place in a university-level essay writing competition in 2026.
+
+## Leadership
+
+- Treasurer, TUB Programming Club (2026–2027)
+- Former Co-Treasurer, TUB Programming Club (2025–2026)
+
 
 ## Technical Skills
 
